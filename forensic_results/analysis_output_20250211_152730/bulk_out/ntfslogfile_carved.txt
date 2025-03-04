@@ -1,0 +1,11 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: ntfslogfile_carved
+# Filename: /home/kali/analyzer_project/harddisk.vmdk
+# Feature-File-Version: 1.1
+319488	ntfslogfile_carved/000/319488.LogFile-RSTR	<fileobject><filename>ntfslogfile_carved/000/319488.LogFile-RSTR</filename><filesize>4096</filesize><hashdigest type='sha1'>17941f6fb83fc0cbf3679c48a327513e5a2bcdd8</hashdigest></fileobject>
+323584	ntfslogfile_carved/000/323584.LogFile-RSTR	<fileobject><filename>ntfslogfile_carved/000/323584.LogFile-RSTR</filename><filesize>4096</filesize><hashdigest type='sha1'>2095cc14009e340bf254b48b50cb8bdb52d55a42</hashdigest></fileobject>
+327680	ntfslogfile_carved/000/327680.LogFile-RCRD	<fileobject><filename>ntfslogfile_carved/000/327680.LogFile-RCRD</filename><filesize>8192</filesize><hashdigest type='sha1'>c2927d9dac05c9def58194f59479b4c525064e51</hashdigest></fileobject>
+372736	ntfslogfile_carved/000/372736.LogFile-RCRD	<fileobject><filename>ntfslogfile_carved/000/372736.LogFile-RCRD</filename><filesize>8192</filesize><hashdigest type='sha1'>06402e5ec9cba6925c6a9827c488684ffa694781</hashdigest></fileobject>
+393216	ntfslogfile_carved/000/393216.LogFile-RCRD	<fileobject><filename>ntfslogfile_carved/000/393216.LogFile-RCRD</filename><filesize>53248</filesize><hashdigest type='sha1'>864b8fd63b99092ee9fabb24e28ed842a81c5bc4</hashdigest></fileobject>
+458752	ntfslogfile_carved/000/458752.LogFile-RCRD	<fileobject><filename>ntfslogfile_carved/000/458752.LogFile-RCRD</filename><filesize>114688</filesize><hashdigest type='sha1'>a8be82ce859f59b36e99c4ae44b5b1eae3ef7ce4</hashdigest></fileobject>

@@ -1,0 +1,9 @@
+===== PROJECT: ANALYZER - HDD Minimal Report =====
+Date: Tue Feb 11 15:27:36 IST 2025
+File: /home/kali/analyzer_project/harddisk.vmdk
+----------------------------------------------
+Foremost out -> /home/kali/analyzer_project/forensic_results/analysis_output_20250211_152730/foremost_out (1 files)
+Bulk out -> /home/kali/analyzer_project/forensic_results/analysis_output_20250211_152730/bulk_out       (66 files)
+Binwalk out -> /home/kali/analyzer_project/forensic_results/analysis_output_20250211_152730/binwalk_out (20 files)
+----------------------------------------------
+Analysis took: 0m 6s.

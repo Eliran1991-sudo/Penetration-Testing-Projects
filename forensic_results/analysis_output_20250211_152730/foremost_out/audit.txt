@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Tue Feb 11 15:27:30 2025
+Invocation: foremost -i /home/kali/analyzer_project/harddisk.vmdk -o /home/kali/analyzer_project/forensic_results/analysis_output_20250211_152730/foremost_out 
+Output directory: /home/kali/analyzer_project/forensic_results/analysis_output_20250211_152730/foremost_out
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: /home/kali/analyzer_project/harddisk.vmdk
+Start: Tue Feb 11 15:27:30 2025
+Length: 15 MB (16580608 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Tue Feb 11 15:27:30 2025
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Tue Feb 11 15:27:30 2025
