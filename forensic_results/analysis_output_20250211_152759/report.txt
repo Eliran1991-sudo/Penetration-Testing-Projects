@@ -1,0 +1,7 @@
+===== PROJECT: ANALYZER - Memory Minimal Report =====
+Date: Tue Feb 11 15:28:15 IST 2025
+File: /home/kali/analyzer_project/snowden.mem
+Suggested Profiles: VistaSP1x86
+pslist -> /home/kali/analyzer_project/forensic_results/analysis_output_20250211_152759/pslist.txt
+----------------------------------------------
+Analysis took: 0m 16s.

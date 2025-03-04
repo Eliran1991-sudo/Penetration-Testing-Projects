@@ -1,0 +1,25 @@
+mkdir "/home/kali/analyzer_project/forensic_results/analysis_output_20250211_152730/bulk_out"
+bulk_extractor version: 2.1.1
+Input file: "/home/kali/analyzer_project/harddisk.vmdk"
+Output directory: "/home/kali/analyzer_project/forensic_results/analysis_output_20250211_152730/bulk_out"
+Disk Size: 16580608
+Scanners: aes base64 elf evtx exif facebook find gzip httplogs json kml_carved msxml net ntfsindx ntfslogfile ntfsmft ntfsusn pdf rar sqlite utmp vcard_carved windirs winlnk winpe winprefetch zip accts email gps 
+Threads: 4
+going multi-threaded...( 4 )
+15:27:30 Offset 0MB (0.00%) Done in n/a at 2025-02-11 15:27:29
+All data read; waiting for threads to finish...
+15:27:31 Offset 0MB (100.00%) Done in  0:00:00 at 2025-02-11 15:27:31
+Phase 2. Shutting down scanners
+Computing final histograms and shutting down...
+Phase 3. Generating stats and printing final usage information
+All Threads Finished!
+Elapsed time: 2.003 sec.
+Total MB processed: 16
+Overall performance: 8.277 MBytes/sec 2.069 (MBytes/sec/thread)
+sbufs created:   97175
+sbufs unaccounted: 0
+Time producer spent waiting for scanners to process data:         0:00:00 (0.00 seconds)
+Time consumer scanners spent waiting for data from producer:      0:00:01 (1.30 seconds)
+Average time each consumer spent waiting for data from producer:  0:00:00 (0.00 seconds)
+*** More time spent waiting for reader. You need faster I/O for improved performance.
+Total email features found: 0

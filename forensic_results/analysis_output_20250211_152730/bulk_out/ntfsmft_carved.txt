@@ -1,0 +1,7 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: ntfsmft_carved
+# Filename: /home/kali/analyzer_project/harddisk.vmdk
+# Feature-File-Version: 1.1
+2555904	ntfsmft_carved/000/2555904.mft	<fileobject><filename>ntfsmft_carved/000/2555904.mft</filename><filesize>16384</filesize><hashdigest type='sha1'>7bb8435f53925ed8002a4a0b1be47770787b0338</hashdigest></fileobject>
+2580480	ntfsmft_carved/000/2580480.mft	<fileobject><filename>ntfsmft_carved/000/2580480.mft</filename><filesize>22528</filesize><hashdigest type='sha1'>f909747d144c7ce707f278f2a63e2cd809449b9a</hashdigest></fileobject>
